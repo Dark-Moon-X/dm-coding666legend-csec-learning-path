@@ -1270,6 +1270,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 - [Burp Suite](https://portswigger.net/burp) - Web vulnerability scanner and proxy
 - [OWASP ZAP](https://www.zaproxy.org/) - Web application security scanner
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Sqlmap](https://sqlmap.org/) - Automatic SQL injection tool
 - [Wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [Dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
